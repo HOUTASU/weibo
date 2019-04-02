@@ -54,8 +54,8 @@ MYSQL_CONFIG = {
     'host': '192.168.18.40',
     'port': 3306,
     'database': 'weibo',
-    'user': 'xy',
-    'password': '123456..'
+    'user': '',
+    'password': ''
 }
 
 LOG_FILE = ''
